@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+envnew/
+testenv/
+
+# VSCode settings
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Streamlit
+.streamlit/

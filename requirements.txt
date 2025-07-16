@@ -1,0 +1,8 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+streamlit==1.35.0
+requests==2.32.3
+httpx==0.28.1
+pytest==8.4.1
+python-dotenv==1.1.1
+pydantic==1.10.13
