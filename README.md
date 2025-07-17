@@ -41,5 +41,3 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
-Built for the **LocalConnect AI Task Assignment**  
-By: _Gourav Sharma_
